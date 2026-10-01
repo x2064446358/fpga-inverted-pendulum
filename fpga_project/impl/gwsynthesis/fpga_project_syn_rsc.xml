@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Module name="top" Register="26" Lut="68" T_Register="39(26)" T_Lut="95(68)">
+ <SubModule name="u_pwm_gen" Register="13" Lut="27" T_Register="13(13)" T_Lut="27(27)"/>
+</Module>

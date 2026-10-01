@@ -1,0 +1,20 @@
+[
+ {
+  "InstFile" : "C:/Users/Xie/Desktop/verilog/fpga_project/src/top.v",
+  "InstLine" : 23,
+  "InstName" : "top",
+  "ModuleFile" : "C:/Users/Xie/Desktop/verilog/fpga_project/src/top.v",
+  "ModuleLine" : 23,
+  "ModuleName" : "top",
+  "SubInsts" : [
+   {
+    "InstFile" : "C:/Users/Xie/Desktop/verilog/fpga_project/src/top.v",
+    "InstLine" : 78,
+    "InstName" : "u_pwm_gen",
+    "ModuleFile" : "C:/Users/Xie/Desktop/verilog/fpga_project/src/pwm_gen.v",
+    "ModuleLine" : 15,
+    "ModuleName" : "pwm_gen"
+   }
+  ]
+ }
+]
